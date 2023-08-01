@@ -4,7 +4,7 @@
 Una parte muy importante en el viaje de la búsqueda de empleo es el portfolio, ¿para qué? para mostrar al recruiter tu curriculum y mostrar tu capacidad de desarrollo web. Entonces la página tiene que ser llamativa, bien estructurada e intuitiva.
 
 ## Requerimientos UI
-- Home page:
+- #### Home page:
 Una página home que tenga tu nombre, una introducción breve de ti mismo/a con un mensaje de bienvenida a la página, y puede ser también un resumen de tu experiencia.
 - Un Navbar que redirija a las otras páginas que mencionaremos a continuación.
 - About me:
