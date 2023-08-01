@@ -7,7 +7,7 @@ Una parte muy importante en el viaje de la búsqueda de empleo es el portfolio, 
 - #### Home page:
 Una página home que tenga tu nombre, una introducción breve de ti mismo/a con un mensaje de bienvenida a la página, y puede ser también un resumen de tu experiencia.
 - Un Navbar que redirija a las otras páginas que mencionaremos a continuación.
-- About me:
+- **About me:**
 Esta página muestra detalladamente las informaciones de tu; educación, experiencia ... .etc.
 Incluye también un enlace para descargar el curriculum.
 - Proyectos:
