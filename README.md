@@ -13,7 +13,7 @@ Incluye también un enlace para descargar el curriculum.
 - **Proyectos:**
 Una página o sección muestra los proyectos que has trabajado con títulos, descripciones, imágenes, y enlaces al proyecto desplegado o el repositorio de github.
 - **Tecnologías y habilidades:**
-Una página o sección muestra todas las herramientas, linguages, frameworks que has usado.
+Una página o sección muestra todas las herramientas, linguages, frameworks que has usado, también se puede añadir certificaciones si hay.
 - **Contacto:**
 Una página o sección que incluye los datos de contactos; correo electrónico, formulario de contacto (opcional), y enlaces a github, linkedIn y otros enlaces relacionados.
 - **Blog (opcional):**
