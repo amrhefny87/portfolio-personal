@@ -28,7 +28,7 @@ Puedes añadir también un pagina como Blog relacionado con el desarrollo web.
 - Despliegue del API (por ejemplo…. en Render o Cyclic).
 - Hacer el frontend en React Vite con Typescript e intentar de usar la mayoría de las librerías y hooks que has usado antes.
 - Test con Vitest.
-- Despliegue del frontend (por ejemplo… en vercel, firebase, netlify).
+- Despliegue del frontend (por ejemplo… en Vercel, Firebase, Netlify).
 - Buena práctica y estructura de código.
 
 ## Modalidades pedagógicas
